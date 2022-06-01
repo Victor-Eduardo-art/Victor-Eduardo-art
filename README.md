@@ -3,6 +3,9 @@
 - me interesso por coisas novas 👀
 - tenho mais de 2 anos na área da programação 🍃
 - meu objetivo atual é ser um desenvolvedor Fullstack 🎯
+<hr/>
+<a href='https://linktr.ee/victor_eduardo_art'>Minhas redes sociais</a>
+<hr/>
 
 <div>
   <img align="center" alt="Vic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
